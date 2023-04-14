@@ -58,8 +58,8 @@ define( 'LOGGED_IN_SALT',   'U&V*A[gS&m*,V5c(Irl2MozDsyMF[nM&^hjI6lwi|2nb{>Q?$;P
 define( 'NONCE_SALT',       '2qJYPh45]?QT 0auf^P]^Wy,?q zWmDSJl+@bY8D$8^AFEk_|ox`9qP}EAgADf%.' );
 
 
-define( 'WP_HOME', 'http://16.16.115.80' );
-define( 'WP_SITEURL', 'http://16.16.115.80' );
+define( 'WP_HOME', 'http://13.50.101.11' );
+define( 'WP_SITEURL', 'http://13.50.101.11' );
 /**#@-*/
 
 /**
